@@ -31,7 +31,7 @@ ${data.description}
 
 ## Table of Contents
 
-- [Decription](#description)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)

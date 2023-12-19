@@ -1,9 +1,9 @@
-# Weather-Dashboard
+# Readme-Generator
   
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-this app  allows users to see the weather forecast for cities of their choosing.
+It is a command-line application that dynamically generates a professional README.md file
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 npm install
 
 ## Usage
-Enter city name in search box for which you want to know forecast
+Answer the questions in order to generate readme file
 
 ## Contributing
 N/A
